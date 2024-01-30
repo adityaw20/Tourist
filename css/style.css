@@ -1,0 +1,9 @@
+.header{
+    border: 5px;
+    height: 500px;
+    width: 300px;
+    background-color:#ddddbb;
+    display: inline-block;
+    margin-right: 5px;
+    border-radius: 10px;
+}
