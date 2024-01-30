@@ -10,9 +10,10 @@
 .btn{
     color: black;
     background-color: yellow;
-    border-radius: 5px;
+    border-radius: 10px;
     border: solid black;
     font-size: 30px;
-    
+    margin: 10px 80px;
+    padding: 5px 20px;
 }
 
